@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle>
+  <Type name="Two Wheeler">
+    <Vehicle_Details>
+      <Vehicle_Name>Activa 6G</Vehicle_Name>
+      <Company>Honda</Company>
+      <Color>Black</Color>
+      <Average>50 km/l</Average>
+    </Vehicle_Details>
+    <Vehicle_Details>
+      <Vehicle_Name>Pulsar 150</Vehicle_Name>
+      <Company>Bajaj</Company>
+      <Color>Red</Color>
+      <Average>45 km/l</Average>
+    </Vehicle_Details>
+  </Type>
+  <Type name="Four Wheeler">
+    <Vehicle_Details>
+      <Vehicle_Name>Swift</Vehicle_Name>
+      <Company>Maruti Suzuki</Company>
+      <Color>White</Color>
+      <Average>22 km/l</Average>
+    </Vehicle_Details>
+    <Vehicle_Details>
+      <Vehicle_Name>Creta</Vehicle_Name>
+      <Company>Hyundai</Company>
+      <Color>Blue</Color>
+      <Average>18 km/l</Average>
+    </Vehicle_Details>
+  </Type>
+</vehicle>

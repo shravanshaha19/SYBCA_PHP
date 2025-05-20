@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+<ABC_Bookstore>
+<books category="technical">
+<book_no>1</book_no>
+<book_name>PHP</book_name>
+<author_name>Swapnil</author_name>
+<price>100</price>
+<year>1990</year>
+</books>
+
+<books category="cooking">
+<book_no>2</book_no>
+<book_name>ccc</book_name>
+<author_name>Shravan</author_name>
+<price>200</price>
+<year>1950</year>
+</books>
+
+<books category="Yoga">
+<book_no>3</book_no>
+<book_name>abc</book_name>
+<author_name>Jay</author_name>
+<price>250</price>
+<year>1990</year>
+</books>
+</ABC_Bookstore>

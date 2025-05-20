@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Course>
+  <computerScience>
+    <student>
+      <Student_name>Alice Johnson</Student_name>
+      <Class_name>SYBBA(C.A)</Class_name>
+      <Percentage>85</Percentage>
+    </student>
+    <student>
+      <Student_name>Bob Smith</Student_name>
+      <Class_name>SYBBA(C.A)</Class_name>
+      <Percentage>78</Percentage>
+    </student>
+    <student>
+      <Student_name>Charlie Brown</Student_name>
+      <Class_name>SYBBA(C.A)</Class_name>
+      <Percentage>92</Percentage>
+    </student>
+    <student>
+      <Student_name>Daisy Williams</Student_name>
+      <Class_name>SYBBA(C.A)</Class_name>
+      <Percentage>88</Percentage>
+    </student>
+    <student>
+      <Student_name>Ethan Davis</Student_name>
+      <Class_name>SYBBA(C.A)</Class_name>
+      <Percentage>81</Percentage>
+    </student>
+  </computerScience>
+</Course>

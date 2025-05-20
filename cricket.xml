@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CricketTeam>
+    <Team country='India'>
+        <player>Sachin</player>
+        <runs>100</runs>
+        <wicket>4</wicket>
+    </Team>
+</CricketTeam>

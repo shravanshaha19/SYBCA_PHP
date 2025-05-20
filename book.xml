@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book bookcode="Boo1">
+<bookname>Introduction to PHP</bookname>
+<author>John Doe</author>
+<year>2020</year>
+<price>29.99</price>
+</book>
+
+<book bookcode="Boo2">
+<bookname>Mastering XML</bookname>
+<author>Jane Smith</author>
+<year>2018</year>
+<price>34.50</price>
+</book>
+
+<book bookcode="Boo3">
+<bookname>Web Development Basics</bookname>
+<author>Mike Johnson</author>
+<year>2022</year>
+<price>45.00</price>
+</book>
+</books>
